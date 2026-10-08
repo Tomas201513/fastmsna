@@ -1,0 +1,94 @@
+"analysis_key","occurrence","stat_old","stat_new","stat_absdiff","stat_low_old","stat_low_new","stat_low_absdiff","stat_upp_old","stat_upp_new","stat_upp_absdiff","n_old","n_new","n_absdiff","n_total_old","n_total_new","n_total_absdiff","n_w_old","n_w_new","n_w_absdiff","n_w_total_old","n_w_total_new","n_w_total_absdiff"
+"prop_select_one @/@ all_missing_text %/% NA @/@ NA %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1000,1000,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ NA %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ NA %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_01",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,175,175,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_02",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,157,157,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_03",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,176,176,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_04",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,171,171,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_05",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,166,166,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_06",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,155,155,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_01",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_02",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_03",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_04",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_05",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_06",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_01",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_02",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_03",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_04",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_05",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_06",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ hoh_gender %/% female",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,357,357,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ hoh_gender %/% male",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,633,633,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ hoh_gender %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ hoh_gender %/% female",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ hoh_gender %/% male",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ hoh_gender %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ hoh_gender %/% female",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ hoh_gender %/% male",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ hoh_gender %/% NA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,97,97,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,62,62,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,93,93,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,53,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,90,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,66,66,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,20,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,95,95,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,66,66,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,82,82,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,70,70,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,88,88,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,56,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_01 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_02 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_03 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_04 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_05 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% host",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% idp",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ admin1 %/% state_06 -/- pop_group %/% returnee",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ rare_group %/% common",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,998,998,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ rare_group %/% only_4",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prop_select_one @/@ all_missing_text %/% NA @/@ rare_group %/% only_5",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ rare_group %/% common",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ rare_group %/% only_4",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mean @/@ all_missing_num %/% NA @/@ rare_group %/% only_5",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ rare_group %/% common",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ rare_group %/% only_4",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"median @/@ all_missing_num %/% NA @/@ rare_group %/% only_5",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA

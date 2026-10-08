@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^scripts$
+^benchmarks$
+^outputs$
+^logs$
+^data$
+^renv$
+^renv\.lock$
+^README\.md$
+^\.gitignore$

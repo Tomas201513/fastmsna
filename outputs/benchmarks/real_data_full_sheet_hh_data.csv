@@ -1,0 +1,35 @@
+"sheet","disagg_index","disaggregation","groups","result_rows","seconds"
+"hh data",1,"MSNA-wide",1,2251,7.47
+"hh data",2,"cm_income_total_qtl",6,12256,4.44
+"hh data",3,"State",7,12441,4.18
+"hh data",4,"Gender of HoH",2,4352,4.16
+"hh data",5,"Age of HoH",2,4322,4.33
+"hh data",6,"Setting",4,7908,4.08
+"hh data",7,"State - Setting",26,39809,4.3
+"hh data",8,"Household with disability - Level 3",2,4257,4.3
+"hh data",9,"displacement_status",9,15436,4.1
+"hh data",10,"cm_income_sources_reduced_1",13,22149,4.4
+"hh data",11,"State - Gender of HoH",14,23714,4.08
+"hh data",12,"State - Age of HoH",14,23492,4.29
+"hh data",13,"Age & Gender HoH",4,8220,4.17
+"hh data",14,"State - Household with disability - Level 3",14,22817,4.42
+"hh data",15,"LGA",125,169860,5.55
+"hh data",16,"State - Age & Gender HoH",28,44003,4.48
+"hh data",17,"LGA - Gender of HoH",249,313795,7.56
+"hh data",18,"LGA - Age of HoH",250,311706,8.17
+"hh data",19,"LGA - Setting",339,394908,8.83
+"hh data",20,"LGA - Household with disability - Level 3",244,293045,8.19
+"hh data",21,"LGA - Age & Gender HoH",483,555228,11.44
+"hh data",22,"Strata",233,297844,8.82
+"hh data",23,"Strata - Gender of HoH",464,546736,10.69
+"hh data",24,"Strata - Age of HoH",464,541370,12.49
+"hh data",25,"Strata - Setting",548,614330,11.64
+"hh data",26,"Strata - Household with disability - Level 3",440,496530,11.61
+"hh data",27,"Strata - Age & Gender HoH",866,937689,17.03
+"hh data",28,"pop_group",2,4311,4.37
+"hh data",29,"State - Population Group",14,23648,4.29
+"hh data",30,"State - Population Group & Gender of HoH",28,44571,4.61
+"hh data",31,"State - Population Group & Age of HoH",28,44195,4.39
+"hh data",32,"State - Population Group & Setting",50,69817,4.46
+"hh data",33,"State - Population Group & Household with disability - Level 3",28,42647,4.26
+"hh data",34,"State - Population Group & Age & Gender HoH",56,81944,4.9

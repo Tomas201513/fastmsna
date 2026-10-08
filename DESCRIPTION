@@ -1,0 +1,37 @@
+Package: fastmsna
+Type: Package
+Title: Fast, Survey-Correct Descriptive Analysis for Large MSNA Datasets
+Version: 0.1.0
+Authors@R: c(
+    person("IMPACT", "NGA", role = c("aut", "cre"),
+           email = "tomasbeyene21@gmail.com"))
+Description: A performance-optimised re-implementation of the descriptive
+    analysis functions of the 'analysistools' package (means, medians,
+    select-one and select-multiple proportions, ratios) for large
+    humanitarian / Multi-Sector Needs Assessment (MSNA) datasets. Estimates,
+    Taylor-linearised confidence intervals, sample sizes and analysis keys
+    are statistically equivalent to 'analysistools' (srvyr/survey), but are
+    computed with grouped matrix operations over all domains at once instead
+    of one survey-design subset per group and indicator.
+License: MIT + file LICENSE
+URL: https://github.com/Tomas201513/fastmsna
+BugReports: https://github.com/Tomas201513/fastmsna/issues
+Encoding: UTF-8
+Depends:
+    R (>= 4.1.0)
+Imports:
+    data.table (>= 1.14.0),
+    stats,
+    utils
+Suggests:
+    analysistools,
+    srvyr (>= 1.3.0),
+    survey,
+    tibble,
+    writexl,
+    readxl,
+    callr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
